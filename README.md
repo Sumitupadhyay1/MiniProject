@@ -1,7 +1,6 @@
-# Student_Management_System
-
 [![Code quality score](https://api.codiga.io/project/29816/score/svg)]
 [![Code grade](https://api.codiga.io/project/29816/status/svg)]
+# Student_Management_System
 Simple student management database system in C with File I/O 
 This is simple student database management system in C programme. In this mini project user can 
 <br/>
