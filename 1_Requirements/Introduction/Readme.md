@@ -1,1 +1,1 @@
-
+A student database management system is automation of manual performance record management which enables the user to assess necessary data at any place and any time through internet. The admin module allows admin to make changes in student details.
